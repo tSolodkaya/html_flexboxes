@@ -184,22 +184,22 @@ header {
   background-repeat: no-repeat;
 }
 .icon-photo::before {
-  background-image: url(../images/icons/ALARM@1X.png);
+  background-image: url(images/icons/ALARM@1X.png);
 }
 .icon-web::before {
-  background-image: url(../images/icons/LINE\ GRAPH@1X.png);
+  background-image: url(images/icons/LINE\ GRAPH@1X.png);
 }
 .icon-creative::before {
-  background-image: url(../images/icons/COMPUTER\ _\ OK@1X.png);
+  background-image: url(images/icons/COMPUTER\ _\ OK@1X.png);
 }
 .icon-seo::before {
-  background-image: url(../images/icons/BOOK\ 2@1X.png);
+  background-image: url(images/icons/BOOK\ 2@1X.png);
 }
 .icon-css-html::before {
-  background-image: url(../images/icons/HOME@1X.png);
+  background-image: url(images/icons/HOME@1X.png);
 }
 .icon-digital::before {
-  background-image: url(../images/icons/IMAGE@1X.png);
+  background-image: url(images/icons/IMAGE@1X.png);
 }
 /*TEAM SECTION*/
 .team-section {
@@ -305,16 +305,16 @@ header {
 }
 
 .icon-facebook {
-  background-image: url(/images/icons/facebook@1X.png);
+  background-image: url(../images/icons/facebook@1X.png);
 }
 .icon-twitter {
-  background-image: url(/images/icons/twitter@1X.png);
+  background-image: url(../images/icons/twitter@1X.png);
 }
 .icon-pinterest {
-  background-image: url(/images/icons/pinterest@1X.png);
+  background-image: url(../images/icons/pinterest@1X.png);
 }
 .icon-instagram {
-  background-image: url(/images/icons/instagram@1X.png);
+  background-image: url(../images/icons/instagram@1X.png);
 }
 /*FOOTER*/
 footer {
